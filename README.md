@@ -1,1 +1,1 @@
-js_wam
+_wamgame
